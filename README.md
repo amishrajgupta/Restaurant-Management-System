@@ -13,8 +13,8 @@ There are so many day-to-day processes that restaurants have to deal with. These
 The main purpose is to improve the performance of the restaurant by eradicating the daily             paperwork. With this system the tasks would be performed in less amount of time and more    efficiently. An additional benefit of this software is that during the rush hours the load can be balanced effectively, and restaurants would perform better than usual. In addition to this, human error that occurs when performing tasks manually is also minimized and presence of queues in the system to assign tasks to chefs can reduce congestion in the kitchen. The system would also result in reduction of labor which would result in the reduction of expenses of the restaurant.
 
 
-    Objectives
-     The objectives for this project are the following:
+Objectives
+The objectives for this project are the following:
 	To divide restaurant management into 3 parts, item (stock) management, labor management and order management.
 	To make database storage for each division.
 	To provide facilities of view, modify, add and delete operations under each division.
