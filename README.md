@@ -14,11 +14,13 @@ The main purpose is to improve the performance of the restaurant by eradicating 
 
 
 Objectives
+
 The objectives for this project are the following:
-	To divide restaurant management into 3 parts, item (stock) management, labor management and order management.
-	To make database storage for each division.
-	To provide facilities of view, modify, add and delete operations under each division.
-	To build an application (GUI) for Restaurant Management System and maximize restaurants profit by increasing efficiency.
+
+*	To divide restaurant management into 3 parts, item (stock) management, labor management and order management.
+*	To make database storage for each division.
+*	To provide facilities of view, modify, add and delete operations under each division.
+*	To build an application (GUI) for Restaurant Management System and maximize restaurants profit by increasing efficiency.
 
 
 Requirements
